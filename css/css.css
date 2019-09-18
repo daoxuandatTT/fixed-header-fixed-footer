@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    background: darkmagenta;
+    height: 100px;
+    width: 100%;
+}
+
+.main {
+    background: darkgreen;
+    height: 300px;
+    width: 100%;
+}
